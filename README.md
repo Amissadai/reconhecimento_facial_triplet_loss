@@ -1,0 +1,2 @@
+# reconhecimento_facial_triplet_loss
+Reconhecimento facial usando triplet loss
